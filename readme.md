@@ -6,7 +6,7 @@ The Baltimore Sun conducted an analysis of Maryland voter registration statistic
 
 The analysis provided information for the October 15, 2018 Baltimore Sun story titled ["Maryland nears record high voter registration — and independents make up the fastest-growing group"](http://www.baltimoresun.com/news/maryland/politics/bs-md-2018-voter-registration-20181011-story.html).
 
-The Sun's findings and analysis are available in the "analysis" notebook in this repository, [`02_analysis.ipynb`]() (note: viewable on desktop).
+The Sun's findings and analysis are available in the "analysis" notebook in this repository, [`02_analysis.ipynb`](https://github.com/baltimore-sun-data/2018-voter-registration/blob/master/02_analysis.ipynb) (note: viewable on desktop).
 
 https://twitter.com/baltsundata
 
