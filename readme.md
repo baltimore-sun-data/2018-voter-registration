@@ -30,6 +30,12 @@ Our story only uses the `totals.csv` file, but we have included the other files 
 
 The files in the `input/` folder correspond exactly to the columns in the PDF reports. The PDFs for each month and year are in the `pdf/` folder, for reference.
 
+## Community Contributions
+
+There are many angles to explore with this data, beyond just the ones we looked into for our story.
+
+**Have something to contribute?** Send us a [pull request](https://github.com/baltimore-sun-data/2018-voter-registration/pulls) or contact us on Twitter [@baltsundata](https://twitter.com/baltsundata) or via email (address linked above). We'll make a `community contributions` folder to store your analysis. You can also fork your own copy of this repo to your own account.
+
 ## Licensing
 
 All code in this repository is available under the [MIT License](https://opensource.org/licenses/MIT). The data files are available under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0) license.
